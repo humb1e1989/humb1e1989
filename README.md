@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humb1e1989&" alt="humb1e1989" /></p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=485)](https://git.io/streak-stats)
+
