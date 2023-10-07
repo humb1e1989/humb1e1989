@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humb1e1989&no-bg=true&no-frame=true&theme=matrix&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="humb1e1989"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humb1e1989&no-bg=true&no-frame=true&theme=tokyonight&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="humb1e1989"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/callmeiverson" target="blank"><img src="https://img.shields.io/twitter/follow/callmeiverson?logo=twitter&style=for-the-badge" alt="callmeiverson" /></a> </p>
 
