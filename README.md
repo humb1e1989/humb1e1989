@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/callmeiverson" target="blank"><img src="https://img.shields.io/twitter/follow/callmeiverson?logo=twitter&style=for-the-badge" alt="callmeiverson" /></a> </p>
 
-- 📝 I regularly write articles on [https://blog.csdn.net/weixin_65152080?spm=1000.2115.3001.5343](https://blog.csdn.net/weixin_65152080?spm=1000.2115.3001.5343)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/callmeiverson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmeiverson" height="30" width="40" /></a>
+<a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
