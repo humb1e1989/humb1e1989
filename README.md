@@ -10,21 +10,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/callmeiverson" target="blank"><img src="https://img.shields.io/twitter/follow/callmeiverson?logo=twitter&style=for-the-badge" alt="callmeiverson" /></a> </p>-->
 
-<!-- This is the socila media link -->
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
-</p> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
 <!-- This is the lanaguage & tools -->
 <h3 align="left">Languages&Tools:</h3>
@@ -44,3 +30,19 @@
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi) -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi&width=1000)
+
+<!-- This is the socila media link -->
+
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
+</p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
