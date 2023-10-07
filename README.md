@@ -9,7 +9,7 @@
 <a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
 </p> -->
 
-<h3 align="center">Connect with me!:</h3>
+<h3 align="center">Now you see me!:</h3>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 
 <!-- This is the statics display board -->
 <!--Top Language -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humb1e1989&show_icons=false&hide_border=true&locale=en&layout=donut-vertical&theme=nightowl" alt="humb1e1989" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humb1e1989&show_icons=false&hide_border=true&locale=en&layout=donut-vertical&theme=nightowl&langs_count=10" alt="humb1e1989" /></p>
 
 <!-- Statistic display-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=false&hide_border=true&hide_rank=true&locale=en&theme=radical&include_all_commits=true&count_private=true"alt="humb1e1989" /></p>
