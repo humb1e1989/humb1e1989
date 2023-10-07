@@ -5,6 +5,22 @@
 <!-- This is the profile view times -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989"/> </p>
 
+<!-- This is the socila media link -->
+
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
+</p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 <!-- This is the honor wall -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humb1e1989&no-bg=true&no-frame=true&theme=tokyonight&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="humb1e1989"/></a> </p>
 
@@ -30,19 +46,3 @@
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi) -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi&width=1000)
-
-<!-- This is the socila media link -->
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
-</p> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
