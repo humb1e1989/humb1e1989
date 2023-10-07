@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shuchen Yuan</h1>
+<h1 align="center">Hi 👋, I'm Shuchen Yuan, call me Iverson.</h1>
 <h3 align="center">A passionate Human-Computer-Interaction researcher & Computer Science undergraduate student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989" /> </p>
