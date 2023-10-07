@@ -1,5 +1,5 @@
 <!-- This is the title -->
-<h1 align="center">Hi 👋, I'm Shuchen Yuan, call me Iverson.</h1>
+<h1 align="center">Hi 👋😉, I'm Shuchen Yuan, call me Iverson.</h1>
 <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3>
 <!-- This is the socila media link -->
 
