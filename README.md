@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuchen Yuan, call me Iverson.</h1>
-<h3 align="center">A young HCI(Human-Computer-Interaction) researcher & Computer Science student/Engineer</h3>
+<h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science student, and Engineer."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989" /> </p>
 
