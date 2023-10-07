@@ -43,4 +43,4 @@
 
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi&width=900)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi&width=1000)
