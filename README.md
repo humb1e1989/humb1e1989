@@ -33,7 +33,7 @@
 <!-- This is the statics display board -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humb1e1989&show_icons=true&locale=en&layout=compact" alt="humb1e1989" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=false&locale=en" alt="humb1e1989" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=false&locale=en&theme=tokyonight" alt="humb1e1989" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humb1e1989&" alt="humb1e1989" /></p> -->
 
