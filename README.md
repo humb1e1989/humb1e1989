@@ -46,4 +46,5 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eufb4oratqlmtttijt3cq65vbi&width=1000)
 
-[![Sparkline](https://stars.medv.io/humb1e1989/humb1e1989.svg)](https://stars.medv.io/humb1e1989/humb1e1989)
+<!--This is the skyline for this repo -->
+<!--[![Sparkline](https://stars.medv.io/humb1e1989/humb1e1989.svg)](https://stars.medv.io/humb1e1989/humb1e1989)-->
