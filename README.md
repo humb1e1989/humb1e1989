@@ -1,6 +1,8 @@
 <!-- This is the title -->
 <h1 align="center">Hi 👋😉, I'm Shuchen Yuan, call me Iverson.</h1>
 <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=9437F7&background=53FF6E00&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&width=1000&height=500&lines=System+-%3E+cd+Iverson%E2%80%98s+wrld%F0%9F%8D%81...;System+-%3E+load+introduction%F0%9F%94%81...;%3E+Hi+there%F0%9F%91%8B%F0%9F%98%89%2C+it's+Iverson+here.+;%F0%9F%94%91+A+Curious+Computer+Science+Student;%F0%9F%8C%8F+A+Collaborative+HCI+researcher;%F0%9F%92%BB+A+Passionate+Engineer;Welcome+to+my+wrld%E2%9C%A8%F0%9F%92%9C!;-------------------------------------------------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 <!-- This is the socila media link -->
 
 <!--
