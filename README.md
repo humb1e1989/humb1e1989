@@ -1,5 +1,5 @@
 <!-- This is the title -->
-<h1 align="center">Hi 👋😉, I'm Shuchen Yuan, welcome to my place.</h1>
+<h1 align="center">I'm Shuchen Yuan, welcome to my place.</h1>
 
 <!-- <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3> -->
 
