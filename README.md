@@ -3,7 +3,7 @@
 
 <!-- <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=2000&color=9437F7&background=53FF6E00&multiline=true&width=1000&height=340&lines=%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%3E+Hi+there%F0%9F%91%8B%F0%9F%98%89%2C+it's+Iverson+here+++%2B+%2B+%2B;%2B+%F0%9F%94%91+A+Curious+Computer+Science+Student+%2B;%2B+%F0%9F%8C%8F+A+Collaborative+HCI+researcher+%2B+%2B+%2B;%2B+%F0%9F%92%BB+A+Passionate+Engineer.++%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B++%F0%9F%91%8F++Welcome+to+my+wrld!%E2%9C%A8%F0%9F%92%9C%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=9437F7&background=53FF6E00&multiline=true&width=1000&height=340&lines=%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%3E+Hi+there%F0%9F%91%8B%F0%9F%98%89%2C+it's+Iverson+here+++%2B+%2B+%2B;%2B+%F0%9F%94%91+A+Curious+Computer+Science+Student+%2B;%2B+%F0%9F%8C%8F+A+Collaborative+HCI+researcher+%2B+%2B+%2B;%2B+%F0%9F%92%BB+A+Passionate+Engineer.++%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B++%F0%9F%91%8F++Welcome+to+my+wrld!%E2%9C%A8%F0%9F%92%9C%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B" alt="Typing SVG" /></a>
 <!-- This is the socila media link -->
 
 <!--
