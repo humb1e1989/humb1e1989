@@ -16,9 +16,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.skyline.svg
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
           plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
+          plugin_skyline_quality: 0.5
