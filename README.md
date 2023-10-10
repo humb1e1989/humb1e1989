@@ -3,9 +3,6 @@
 
 <!-- <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3> -->
 
-<!-- New version of the spotify api -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=2000&repeat=false&color=9437F7&background=53FF6E00&multiline=true&width=1000&height=340&lines=%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%3E+Hi+there%F0%9F%91%8B%F0%9F%98%89%2C+it's+Iverson+here+++%2B+%2B+%2B;%2B+%F0%9F%94%91+A+Curious+Computer+Science+Student+%2B;%2B+%F0%9F%8C%8F+A+Collaborative+HCI+Researcher+%2B+%2B+%2B;%2B+%F0%9F%92%BB+A+Passionate+Engineer.++%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B++%F0%9F%91%8F++Welcome+to+my+wrld!%E2%9C%A8%F0%9F%92%9C%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B" alt="Typing SVG" /></a>
 <!-- This is the socila media link -->
 
@@ -25,6 +22,9 @@
 
 <!-- This is the profile view times -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989"/> </p>
+
+<!-- New version of the spotify api -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
 
 <!-- This is the honor wall -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humb1e1989&no-bg=true&no-frame=true&theme=tokyonight&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="humb1e1989"/></a> </p>
