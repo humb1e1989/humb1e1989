@@ -12,8 +12,6 @@
 <a href="https://twitter.com/whoisth90417369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisth90417369" height="30" width="100" /></a>
 </p> -->
 
-<!-- This is the profile view times -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989"/> </p>
 
 <h3 align="center">Now you see me!:</h3>
 <p align="center">
