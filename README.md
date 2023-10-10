@@ -52,4 +52,4 @@
 <!--This is the skyline for this repo -->
 <!--[![Sparkline](https://stars.medv.io/humb1e1989/humb1e1989.svg)](https://stars.medv.io/humb1e1989/humb1e1989)-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
