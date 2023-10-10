@@ -22,7 +22,8 @@
 </p>
 
 <!-- This is the profile view times -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&label=Profile%20views&color=0e75b6&style=flat" alt="humb1e1989"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&style=plastic" alt="humb1e1989"/> </p>
+
 
 <!-- New version of the spotify api -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
