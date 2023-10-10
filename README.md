@@ -56,4 +56,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
 
 <!-- snake test -->
-![Snake animation](https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg)
+<!-- idk why this is not working, maybe we will check it later --> 
+<!--![Snake animation](https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg) -->
+<img src="https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
