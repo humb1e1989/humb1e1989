@@ -59,3 +59,5 @@
 <!-- idk why this is not working, maybe we will check it later --> 
 <!--![Snake animation](https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg) -->
 <img src="https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+[![Shuchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=humb1e1989&theme=synthwave-84)](https://github.com/humb1e1989/github-readme-activity-graph)
