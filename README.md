@@ -3,6 +3,9 @@
 
 <!-- <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3> -->
 
+<!-- New version of the spotify api -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=2000&repeat=false&color=9437F7&background=53FF6E00&multiline=true&width=1000&height=340&lines=%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%3E+Hi+there%F0%9F%91%8B%F0%9F%98%89%2C+it's+Iverson+here+++%2B+%2B+%2B;%2B+%F0%9F%94%91+A+Curious+Computer+Science+Student+%2B;%2B+%F0%9F%8C%8F+A+Collaborative+HCI+Researcher+%2B+%2B+%2B;%2B+%F0%9F%92%BB+A+Passionate+Engineer.++%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B++%F0%9F%91%8F++Welcome+to+my+wrld!%E2%9C%A8%F0%9F%92%9C%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B;%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B+%2B" alt="Typing SVG" /></a>
 <!-- This is the socila media link -->
 
@@ -52,13 +55,10 @@
 <!--This is the skyline for this repo -->
 <!--[![Sparkline](https://stars.medv.io/humb1e1989/humb1e1989.svg)](https://stars.medv.io/humb1e1989/humb1e1989)-->
 
-<!-- New version of the spotify api -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
-
 <!-- snake test -->
 <!-- idk why this is not working, maybe we will check it later --> 
 <!--![Snake animation](https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+<!-- <img src="https://github.com/humb1e1989/humb1e1989/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"> -->
 
 [![Shuchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=humb1e1989&theme=nightowl)](https://github.com/humb1e1989/github-readme-activity-graph)
 
