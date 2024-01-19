@@ -26,7 +26,7 @@
 
 
 <!-- New version of the spotify api -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&cover_image=true&theme=novatorem&show_offline=false&background_color=1fff96&interchange=true&bar_color=a800eb&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eufb4oratqlmtttijt3cq65vbi&redirect=true) -->
 
 <!-- This is the honor wall -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humb1e1989&no-bg=true&no-frame=true&theme=tokyonight&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="humb1e1989"/></a> </p>
