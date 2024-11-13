@@ -1,5 +1,5 @@
 <!-- This is the title -->
-<h1 align="center">We Survive A1one.</h1>
+<h1 align="center">Lostboi Survive A1one.</h1>
 
 <!-- <h3 align="center">"A young HCI (Human-Computer Interaction) researcher, Computer Science Student, and Engineer."</h3> -->
 
