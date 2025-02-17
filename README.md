@@ -80,12 +80,11 @@ const Iverson = {
     <div style="width: 70%;">
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
     </div>
-  </div>
-
-      <!-- Language Stats Card -->
+    <!-- Language Stats Card -->
     <div style="width: 10%;">
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
     </div>
+  </div>
   
   <!-- 下层长卡片 -->
   <div style="width: 100%;">
