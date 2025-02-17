@@ -73,16 +73,23 @@ const Iverson = {
 
 
 <h2>📊 GitHub Stats</h2>
-<!-- 整体容器 -->
-<div style="width: 1000px; margin: 0 auto;">
-  <!-- 上层两个卡片的容器 -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px; width: 1000px;">
-    <img width="500" height="195" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img width="500" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: 0 auto;">
+  <!-- 上层卡片容器 -->
+  <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 20px;">
+    <!-- GitHub Stats Card -->
+    <div style="width: 49%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    </div>
+    <!-- Language Stats Card -->
+    <div style="width: 49%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
+    </div>
   </div>
-
+  
   <!-- 下层长卡片 -->
-  <img width="1000" src="https://streak-stats.demolab.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
+  <div style="width: 100%;">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=nightowl&hide_border=true&card_width=1200"/>
+  </div>
 </div>
 
 
