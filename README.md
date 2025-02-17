@@ -25,7 +25,7 @@
 </p>
 
 <!-- This is the profile view times -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&style=plastic" alt="humb1e1989"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=humb1e1989&style=plastic" alt="humb1e1989"/> </p> -->
 
 
 <!-- New version of the spotify api -->
