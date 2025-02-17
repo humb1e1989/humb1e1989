@@ -71,16 +71,19 @@ const Iverson = {
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
-<!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%; max-width: 1200px; margin: 0 auto;">
+  <!-- 上层两个小卡片 -->
+  <div style="display: flex; justify-content: center; gap: 10px; width: 100%; flex-wrap: wrap;">
+    <img height="180em" style="max-width: 49%;" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" style="max-width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
+  </div>
+  
+  <!-- 下层长卡片 -->
+  <div style="width: 99%;">
+    <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
+  </div>
 </div>
 
 <!-- Featured Projects Section -->
