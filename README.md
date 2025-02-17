@@ -13,7 +13,7 @@
 </p> -->
 
 
-<h3 align="center">Now you see me!:</h3>
+<h3 align="center">Now you see me! </h3>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
