@@ -71,6 +71,8 @@ const Iverson = {
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
+
+<h2>📊 GitHub Stats</h2>
 <div align="center">
   <!-- 上层两个卡片容器，确保它们并排 -->
   <div style="display: flex; justify-content: center; gap: 8px; width: 100%; max-width: 1200px; margin-bottom: 15px;">
