@@ -74,18 +74,21 @@ const Iverson = {
 <h2>📊 GitHub Stats</h2>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 1000px; margin: 0 auto;">
-  <!-- 容器div，控制整体宽度 -->
-  <div style="width: 100%; padding: 0;">
-    <!-- 上层两个小卡片的容器 -->
-    <div style="display: flex; justify-content: space-between; margin-bottom: 20px; width: 100%;">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
+  <!-- 上层卡片容器 -->
+  <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 20px;">
+    <!-- GitHub Stats Card -->
+    <div style="width: 49%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
     </div>
-    
-    <!-- 下层长卡片 -->
-    <div style="width: 100%;">
-      <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
+    <!-- Language Stats Card -->
+    <div style="width: 49%;">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
     </div>
+  </div>
+  
+  <!-- 下层长卡片 -->
+  <div style="width: 100%;">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=humb1e1989&theme=nightowl&hide_border=true&card_width=1200"/>
   </div>
 </div>
 
