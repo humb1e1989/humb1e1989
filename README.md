@@ -71,20 +71,15 @@ const Iverson = {
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <!-- 容器div，控制整体宽度并保持完美对齐 -->
-  <div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <!-- 上层两个小卡片容器 -->
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-      <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-      <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
-    </div>
-    
-    <!-- 下层长卡片 -->
-    <img width="100%" src="https://streak-stats.demolab.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
+<div align="center">
+  <!-- 上层两个卡片容器，确保它们并排 -->
+  <div style="display: flex; justify-content: center; gap: 8px; width: 100%; max-width: 1200px; margin-bottom: 15px;">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
   </div>
+
+  <!-- 下层长卡片 -->
+  <img width="95%" src="https://streak-stats.demolab.com?user=humb1e1989&theme=nightowl&hide_border=true"/>
 </div>
 
 <!-- Featured Projects Section -->
