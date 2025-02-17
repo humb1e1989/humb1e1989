@@ -87,12 +87,11 @@ const Iverson = {
 <h2>🚀 Featured Projects</h2>
 
 <div align="center">
-  <!-- Replace these with your actual project repos -->
   <a href="https://github.com/m-iDev-0792/ExpressiWay">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=humb1e1989&repo=YOUR-REPO-NAME&theme=nightowl&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-iDev-0792&repo=ExpressiWay&theme=nightowl&hide_border=true" />
   </a>
   <a href="https://github.com/humb1e1989/HIIT_Music_Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=humb1e1989&repo=YOUR-REPO-NAME&theme=nightowl&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=humb1e1989&repo=HIIT_Music_Game&theme=nightowl&hide_border=true" />
   </a>
 </div>
 
