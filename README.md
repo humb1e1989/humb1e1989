@@ -77,8 +77,8 @@ const Iverson = {
 <div style="width: 1000px; margin: 0 auto;">
   <!-- 上层两个卡片的容器 -->
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px; width: 1000px;">
-    <img width="510" height="195" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img width="510" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
+    <img width="500" height="195" src="https://github-readme-stats.vercel.app/api?username=humb1e1989&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img width="500" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humb1e1989&layout=compact&theme=nightowl&hide_border=true"/>
   </div>
 
   <!-- 下层长卡片 -->
