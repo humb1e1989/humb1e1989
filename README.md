@@ -91,7 +91,7 @@ const Iverson = {
   <a href="https://github.com/m-iDev-0792/ExpressiWay">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=humb1e1989&repo=YOUR-REPO-NAME&theme=nightowl&hide_border=true" />
   </a>
-  <a href="YOUR-PROJECT-LINK">
+  <a href="https://github.com/humb1e1989/HIIT_Music_Game">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=humb1e1989&repo=YOUR-REPO-NAME&theme=nightowl&hide_border=true" />
   </a>
 </div>
