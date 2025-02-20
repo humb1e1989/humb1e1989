@@ -30,9 +30,9 @@ const Iverson = {
 <h2>🌱 Current Focus</h2>
 
 - 🔭 I'm currently working on **HCI Research Projects**
-- 🌱 I'm currently learning **Advanced Machine Learning Techniques**
-- 👯 I'm looking to collaborate on **AI/ML Projects**
-- 💬 Ask me about **HCI, Machine Learning, Software Development**
+- 🌱 I'm currently learning **Advanced Explainable AI Techniques**
+- 👯 I'm looking to collaborate on **XAI in XR Projects**
+- 💬 Ask me about **XR, Game and Software Development**
 
 <!-- Tech Stack Section -->
 <h2>💻 Tech Stack</h2>
