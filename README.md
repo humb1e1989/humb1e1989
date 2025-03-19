@@ -8,7 +8,7 @@
   <!-- 保持原有的动态标题居中 -->
   <div align="center">
     <h1>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=9437F7&center=true&vCenter=true&width=600&lines=Hey+what's+up%2C+It's+Iverson+here+%F0%9F%91%8B;%F0%9F%94%AC+HCI+Researcher+on+Mixed+Reality;%F0%9F%92%BB+Passionate+Software+Engineer;%F0%9F%8E%93+CS+Student+%40+UBC;%E2%9C%A8+Welcome+to+my+world!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=9437F7&center=true&vCenter=true&width=600&lines=Hey+what's+up%2C+It's+Iverson+here+%F0%9F%91%8B;%F0%9F%94%AC+HCI+Researcher+on+Mixed+Reality;%F0%9F%92%BB+Passionate+Software+Engineer;%F0%9F%8E%93+CS+Student+%40+UBC;%E2%9C%A8+Welcome+to+my+Github!" alt="Typing SVG" />
     </h1>
   </div>
 </div>
